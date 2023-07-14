@@ -8,6 +8,8 @@ class User:
 
     def login(self):
         self.logged_in = True
+        self.logged_in = "True"
+        print(f"{self.name} is logged in.")
         print(f"{self.name} is logged in.")
 
     def logout(self):
