@@ -64,3 +64,5 @@
 - `git stash list` - переглянути список збережених змін
 - `git stash apply --index <stash_id>` - застосувати зміни зі стеку з id <stash_id>
 - `git rm --cached <file>` - видалити файл з репозиторію (але залишити локально)
+
+.
