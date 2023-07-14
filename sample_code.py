@@ -7,8 +7,9 @@ class User:
         self.logged_in = False
 
     def login(self):
-        self.logged_in = True
-        print(f"{self.name} is logged in.")
+        # self.logged_in = True
+        pass
+        # print(f"{self.name} is logged in.")
 
     def logout(self):
         self.logged_in = False
